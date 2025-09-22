@@ -77,4 +77,13 @@ Cluster-wise averages:
 * **Most Profitable Category → Bikes**
 * **Most Profitable Customer Group → Cluster 1 (Adults \~35 yrs, high spenders)**
 
+Team-
+1- Rohit Kumar
+2- Mohit raj Kashyap
+3-Vaibhav Singh
+4-Sumit Kumar ratna
+5-Vayu Nandan Tripathi
+6-Ratan shah
+7-Deepak Sharma
+
 
